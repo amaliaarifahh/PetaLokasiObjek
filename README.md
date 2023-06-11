@@ -1,4 +1,4 @@
-![image.png] (public\edit\foto\webgis.png)
+![alt text]([?](https://github.com/amaliaarifahh/PetaLokasiObjek/blob/main/public/edit/foto/webgis.png)raw=true)
 # WebGIS : Lokasi Terdampak Bencana Gempa Bumi Cianjur, Jawa Barat
 This webGIS application created using the CodeIgniter4 framework serves as an information system for locations affected by earthquakes in Cianjur, West Java. This webGIS was created as the final project of the "Advanced Web Geospatial Programming" course in the Geographic Information Systems major.
 
