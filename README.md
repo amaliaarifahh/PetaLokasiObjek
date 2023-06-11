@@ -1,3 +1,7 @@
+![image.png] (public\edit\foto\webgis.png)
+# WebGIS : Lokasi Terdampak Bencana Gempa Bumi Cianjur, Jawa Barat
+This webGIS application created using the CodeIgniter4 framework serves as an information system for locations affected by earthquakes in Cianjur, West Java. This webGIS was created as the final project of the "Advanced Web Geospatial Programming" course in the Geographic Information Systems major.
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
